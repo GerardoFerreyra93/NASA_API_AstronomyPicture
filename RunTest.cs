@@ -12,10 +12,10 @@ namespace NASA_API
         [Test]
         [Category("ApiTest")]
         public void ValidateAPIResponse()
-        {
+        {            
             ValidateAPIResponseGET();
-            
-
+         
         }
+
     }
 }
